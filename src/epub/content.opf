@@ -51,7 +51,7 @@
 		<meta property="file-as" refines="#author">Hammett, Dashiell</meta>
 		<meta property="se:name.person.full-name" refines="#author">Samuel Dashiell Hammett</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dashiell_Hammett</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/n80016943</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80016943</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Fred Craft</dc:contributor>
 		<meta property="file-as" refines="#artist">Craft, Fred</meta>
