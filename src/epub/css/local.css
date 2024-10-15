@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote[epub|type~="z3998:letter"]{
-	text-transform: uppercase;
+	text-transform: all-small-caps;
 }
 
 /* Centered dedications */
