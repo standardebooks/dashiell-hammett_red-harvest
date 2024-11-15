@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/dashiell-hammett/red-harvest</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,25 +28,27 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Red Harvest</dc:title>
 		<meta property="file-as" refines="#title">Red Harvest</meta>
-		<dc:subject id="subject-1">Continental Op (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Continental Op (Fictitious character)</dc:subject>
 		<dc:subject id="subject-2">Private investigators -- United States -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh92005933</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-2">sh2008109551</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Continental Op</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A hard-boiled detective arrives at a small mining town only to find his client murdered and the inhabitants embroiled in complex webs of corruption.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The &lt;a href="https://standardebooks.org/collections/continental-op"&gt;Continental Op&lt;/a&gt;, the nameless hard-drinking and quick-shooting detective, arrives at Personville—called “Poisonville” by its inhabitants—in response to a call from the local newspaper publisher Donald Willsson. But just the Op arrives, Willsson is murdered in cold blood. The Op begins investigating the murder, only to be ensnared in the deep web of power, corruption, and lies that undergirds the rough-and-tumble town.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Red Harvest&lt;/i&gt; was first published as a series of short stories in &lt;i&gt;Black Mask&lt;/i&gt; magazine before &lt;a href="https://standardebooks.org/ebooks/dashiell-hammett"&gt;Hammett&lt;/a&gt; rewrote them and linked them together to form this novelization. It’s therefore the first novel to feature the Continental Op, the larger-than-life character who would go on to become the prototype for every hard-boiled, emotionally-stunted, fedora-wearing detective cliche to grace media ever since.&lt;/p&gt;
+			&lt;p&gt;The novel’s influence has been widely recognized, with &lt;i&gt;Time&lt;/i&gt; magazine placing it in its list of 100 best novels from 1923 to 2005 and authors for a century to come riffing on the stereotype create by the Continental Op.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20170231</dc:source>
 		<dc:source>https://archive.org/details/redharvest00hamm/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63251</meta>
+		<meta property="se:reading-ease.flesch">84.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Red_Harvest</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dashiell-hammett_red-harvest</meta>
 		<dc:creator id="author">Dashiell Hammett</dc:creator>
