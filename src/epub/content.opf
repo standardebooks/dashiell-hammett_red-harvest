@@ -39,6 +39,12 @@
 		<meta property="se:subject">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Continental Op</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Crime Writers’ Association Top 100 Crime Novels of All Time</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">94</meta>
+		<meta id="collection-3" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">66</meta>
 		<dc:description id="description">A hard-boiled detective arrives at a small mining town only to find his client murdered and the inhabitants embroiled in complex webs of corruption.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;a href="https://standardebooks.org/collections/continental-op"&gt;Continental Op&lt;/a&gt;, the nameless hard-drinking and quick-shooting detective, arrives at Personville—called “Poisonville” by its inhabitants—in response to a call from the local newspaper publisher Donald Willsson. But just as the Op arrives, Willsson is murdered in cold blood. The Op begins investigating the murder, only to be ensnared in the deep web of power, corruption, and lies that undergirds the rough-and-tumble town.&lt;/p&gt;
