@@ -64,6 +64,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dashiell_Hammett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80016943</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Fred Craft</dc:contributor>
 		<meta property="file-as" refines="#artist">Craft, Fred</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
