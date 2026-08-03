@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dashiell-hammett/red-harvest</dc:identifier>
 		<dc:date>2025-01-01T09:01:00Z</dc:date>
@@ -46,12 +46,12 @@
 		<meta id="collection-3" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">66</meta>
-		<dc:description id="description">A hard-boiled detective arrives at a small mining town only to find his client murdered and the inhabitants embroiled in complex webs of corruption.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A hard-boiled detective arrives at a small mining town only to find his client murdered and the inhabitants embroiled in complex webs of corruption.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The &lt;a href="https://standardebooks.org/collections/continental-op"&gt;Continental Op&lt;/a&gt;, the nameless hard-drinking and quick-shooting detective, arrives at Personville—called “Poisonville” by its inhabitants—in response to a call from the local newspaper publisher Donald Willsson. But just as the Op arrives, Willsson is murdered in cold blood. The Op begins investigating the murder, only to be ensnared in the deep web of power, corruption, and lies that undergirds the rough-and-tumble town.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Red Harvest&lt;/i&gt; was first published as a series of short stories in &lt;i&gt;Black Mask&lt;/i&gt; magazine before &lt;a href="https://standardebooks.org/ebooks/dashiell-hammett"&gt;Hammett&lt;/a&gt; rewrote them and linked them together to form this novelization. It’s therefore the first novel to feature the Continental Op, the larger-than-life character who would go on to become the prototype for every hard-boiled, emotionally stunted, fedora-wearing detective cliché to grace media ever since.&lt;/p&gt;
 			&lt;p&gt;The novel’s influence has been widely recognized, with &lt;i&gt;Time&lt;/i&gt; magazine placing it in its list of 100 best novels from 1923 to 2005 and authors for a century to come riffing on the stereotype created by the Continental Op.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20170231</dc:source>
 		<dc:source>https://archive.org/details/bwb_O8-BOR-751</dc:source>
