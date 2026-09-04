@@ -31,7 +31,7 @@
 		<dc:title id="title">Red Harvest</dc:title>
 		<meta property="file-as" refines="#title">Red Harvest</meta>
 		<dc:subject id="subject-1">Continental Op (Fictitious character)</dc:subject>
-		<dc:subject id="subject-2">Private investigators -- United States -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Private investigators--United States--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh92005933</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
